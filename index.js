@@ -7,4 +7,4 @@
 //}
 let a = prompt("What is your name?")
 let b = prompt("What is your age?")
-let 
+let c = prompt("")
