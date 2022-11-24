@@ -7,4 +7,5 @@
 //}
 let a = prompt("What is your name?")
 let b = prompt("What is your age?")
-let c = prompt("")
+let c = prompt("What is your favorite color?");
+console.lo
