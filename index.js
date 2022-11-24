@@ -13,5 +13,6 @@ console.log(a + " is " + b + " years old and has " + c + " favorite color.");
 
 console.log("Start")    
 setTimeout(function){
-    console.log("Hey ")
-}
+    console.log("Hey i am good");
+}, 5000)
+console.log("End")
