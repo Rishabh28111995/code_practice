@@ -1,3 +1,5 @@
 console.log("hello worrrrllllld");
 
-// Kar liya chutiyapa
+for(let i = 0;i<5;i++){
+    console.log(i)
+}
