@@ -1,4 +1,4 @@
-let n = 5;
+let n = 10;
 let string = "";
 // External loop
 for (let i = 1; i <= n; i++) {
