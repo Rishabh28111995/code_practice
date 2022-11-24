@@ -20,4 +20,4 @@ console.log("End")*/
 
 // Callbacks
 
-function load
+function loadScript 
