@@ -20,9 +20,10 @@ console.log("End")*/
 
 // Callbacks
 
-function loadScript(src, callback) {
+function loadScript(src) {
     let script = document.createElement("script");
     script.src = src;
+    script.onload = function( {})
     document.body.appendChild("script");
 }
 
