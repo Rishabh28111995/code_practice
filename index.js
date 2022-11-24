@@ -12,4 +12,4 @@ let c = prompt("What is your favorite player?")
 console.log(a + " is " + b + " years old and has " + c + " favorite color.");
 
     
-setTime
+setTimeout
