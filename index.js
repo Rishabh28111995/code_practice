@@ -6,7 +6,7 @@
 //    console.log(i)
 //}
 let a = prompt("What is your age?")
-let b = prompt("What is your ?")
+let b = prompt("What is your Name?")
 let c = prompt("What is your favorite player?")
 console.log(a + " is " + b + " years old and has " + c + "favorite color.");
 
