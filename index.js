@@ -5,7 +5,7 @@
 //for(let i = 0;i<5;i++){
 //    console.log(i)
 //}
-let a = prompt("What is your name?")
-let b = prompt("What is your age?")
-let c = prompt("What is your favorite color?");
-console.log(a + " is " + )
+for (let  = 0;  < array.length; ++) {
+    const element = array[];
+    
+}
