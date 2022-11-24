@@ -25,7 +25,7 @@ function loadScript(src, callback) {
     script.src = src;
     script.onload = function() {
         console.log("Loaded script with SRC: " + src)
-    })
+    }
     document.body.appendChild("script");
 }
 
