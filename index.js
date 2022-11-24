@@ -11,6 +11,7 @@
 //let c = prompt("What is your favorite player?")
 //console.log(a + " is " + b + " years old and has " + c + " favorite color.");
 
+// Asynchronous programming
 console.log("Start")    
 setTimeout(function(){
     console.log("Hey i am good");
