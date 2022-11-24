@@ -12,8 +12,12 @@
 //console.log(a + " is " + b + " years old and has " + c + " favorite color.");
 
 // Asynchronous programming
-console.log("Start")    
+/*console.log("Start")    
 setTimeout(function(){
     console.log("Hey i am good");
 }, 5000)
 console.log("End")*/
+
+// Callbacks
+
+function load
