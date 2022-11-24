@@ -21,5 +21,6 @@ console.log("End")*/
 // Callbacks
 
 function loadScript(src) {
+    let script = document.createElement("script");
     
 }
