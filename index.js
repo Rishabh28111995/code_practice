@@ -20,7 +20,7 @@ console.log("End")*/
 
 // Callbacks
 
-function loadScript(src) {
+function loadScript(src, callback) {
     let script = document.createElement("script");
     script.src = src;
     script.onload = function() {
