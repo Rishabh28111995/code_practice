@@ -5,6 +5,7 @@
 //for(let i = 0;i<5;i++){
 //    console.log(i)
 //}
+// synchronous 
 let a = prompt("What is your Name?")
 let b = prompt("What is your Age?")
 let c = prompt("What is your favorite player?")
