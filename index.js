@@ -23,8 +23,8 @@ console.log("End")*/
 function loadScript(src) {
     let script = document.createElement("script");
     script.src = src;
-    script.onload = ({
-         }) => { }("Loaded script with SRC: " + src)
+    script.onload = function() {
+    ("Loaded script with SRC: " + src)
     })
     document.body.appendChild("script");
 }
