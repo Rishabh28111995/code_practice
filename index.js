@@ -23,7 +23,9 @@ console.log("End")*/
 function loadScript(src) {
     let script = document.createElement("script");
     script.src = src;
-    script.onload = function( {})
+    script.onload = function( {
+        console.log("Loaded script with SRC: " + src)
+    })
     document.body.appendChild("script");
 }
 
