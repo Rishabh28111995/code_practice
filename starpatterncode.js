@@ -1,10 +1,10 @@
 let n = 10;
-let string = "-";
+let string = "";
 // External loop
 for (let i = 1; i <= n; i++) {
   // printing spaces
   for (let j = 1; j <= n - i; j++) {
-    string += " ";
+    string += "_";
   }
   // printing star
   for (let k = 0; k < 2 * i - 1; k++) {
