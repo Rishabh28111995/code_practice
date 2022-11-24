@@ -11,6 +11,7 @@ for (let i = 1; i <= n; i++) {
     string += "*";
   }
   string += "\n";
+  console.log(string)
 }
 console.log(string); 
     
