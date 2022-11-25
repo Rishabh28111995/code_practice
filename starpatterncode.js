@@ -5,8 +5,8 @@ for(let i=1; i < 5; i++){
        payload += "";
   }  
   for(let k = 1; 2*height-1; k++){
-    string += "*";
+     += "*";
   }
   payload += "\height";
 }
-console.log(string)
+console.log(payload)
