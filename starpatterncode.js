@@ -5,6 +5,7 @@ for(let i=1; i < 5; i++){
        string += "";
   }  
   for(let k = 1; 2*n-1; k++){
-    
+    string += "*";
   }
+  string += "\n";
 }
