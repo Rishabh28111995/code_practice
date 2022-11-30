@@ -1,4 +1,4 @@
-let promise = new
+let promise = new Promise(function())
 
 console.log("Hello Rishabh")
 setTimeout(function(){
