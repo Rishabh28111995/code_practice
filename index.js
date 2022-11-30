@@ -1,5 +1,6 @@
 let promise = new Promise(function(resolve, reject){
     alert(" I am a alert in promise ")
+    resolve(56)
 })
 
 console.log("Hello Rishabh")
