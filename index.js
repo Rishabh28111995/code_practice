@@ -1,4 +1,6 @@
-let promise = new Promise(function())
+let promise = new Promise(function(resolve, reject){
+    alert(" I am a alert in promise ")
+})
 
 console.log("Hello Rishabh")
 setTimeout(function(){
