@@ -21,5 +21,5 @@ p1.then((value) => {
 })
 
 p2.catch((error) => {
-    
+    console.log("some error in p2")
 })
