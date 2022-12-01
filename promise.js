@@ -1,4 +1,4 @@
-let p = new Promise((resolve, reject)=>{
+let p1 = new Promise((resolve, reject)=>{
     console.log("Promise is pending")
     setTimeout(()=>{
         console.log("I am a promise and i am fulfilled")
@@ -14,4 +14,4 @@ let p2 = new Promise((resolve, reject)=>{
         reject(new Error("I am an Error"))
     }, 5000)
 })
-console.log(p)
+console.log(p1, p2)
