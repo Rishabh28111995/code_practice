@@ -1,1 +1,3 @@
-let p = new Promise((resolve, reject)=>)
+let p = new Promise((resolve, reject)=>{
+    
+})
