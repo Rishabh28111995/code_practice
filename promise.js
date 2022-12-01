@@ -14,4 +14,7 @@ let p2 = new Promise((resolve, reject)=>{
         reject(new Error("I am an Error"))
     }, 5000)
 })
-console.log(p1, p2)
+
+p1.then(value) => {
+    
+}
