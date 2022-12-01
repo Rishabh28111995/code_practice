@@ -19,3 +19,7 @@ p1.then((value) => {
     console.log(value)
 
 })
+
+p2.catch((error) => {
+    
+})
