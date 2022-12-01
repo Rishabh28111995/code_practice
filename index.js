@@ -1,5 +1,5 @@
 let promise = new Promise(function(resolve, reject){
-    
+    alert("HELLO")
     resolve(56)
 })
 
