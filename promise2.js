@@ -7,5 +7,5 @@ let p1 = new Promise((resolve, reject)=>{
 
 p1.then((value)=>{
 
-    
+    console.log(value)
 })
