@@ -20,6 +20,6 @@ p1.then((value) => {
 
 })
 
-p2.then((error) => {
+p2.catch((error) => {
     console.log("some error in p2")
 })
