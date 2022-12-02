@@ -1,1 +1,5 @@
-let p1 = new Promise(())
+let p1 = new Promise((resolve, reject)=>{
+    setTimeout(()=>{
+        
+    })
+})
