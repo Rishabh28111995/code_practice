@@ -1,8 +1,9 @@
-function loadScript(src) {
+function loadScript(src, callback) {
     let script = document.createElement("script")
     script.src = src;
     script.onload = function() {
         console.log("Loaded script with SRC: " + src)
+        callback();
     }
     document.body.appendChild(script);
 }
