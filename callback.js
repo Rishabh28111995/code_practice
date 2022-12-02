@@ -1,5 +1,5 @@
-function loadscript(src, callback) {
+function loadScript(src, callback) {
     let script = document.createElement("script")
     script.src = src;
-    document.body.append
+    document.body.appendChild(script);
 }
