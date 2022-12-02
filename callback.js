@@ -1,5 +1,5 @@
 function loadScript(src, callback) {
-    let script = document.createElement("script")
+    var script = document.createElement("script")
     script.src = src;
     script.onload = function() {
         console.log("Loaded script with SRC: " + src)
@@ -9,7 +9,7 @@ function loadScript(src, callback) {
 }
 
 function hello(){
-    alert("Hello World");
+    alert('Hello World');
 }
 
 function goodmorning(){
