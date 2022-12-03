@@ -8,8 +8,8 @@ function loadScript(src, callback) {
     document.body.appendChild(script);
 }
 
-function hello(){
-    alert('Hello World');
+function hello(src){
+    alert('Hello World', + src);
 }
 
 function goodmorning(){
