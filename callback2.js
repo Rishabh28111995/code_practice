@@ -1,3 +1,3 @@
 let addition = function(a, b){
-    retu
+    return a + b
 }
