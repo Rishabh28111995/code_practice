@@ -3,7 +3,7 @@ function loadScript(src, callback) {
     script.src = src;
     script.onload = function() {
         console.log("Loaded script with SRC: " + src)
-        callback();
+        callback(src);
     }
     document.body.appendChild(script);
 }
