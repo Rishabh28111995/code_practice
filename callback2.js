@@ -1,5 +1,5 @@
 
-let addition = function(a, b){
+let sum = function(a, b){
     return a + b
 }
-console.log(3, 9)
+console.log(sum(3, 9)
