@@ -1,5 +1,5 @@
 function loadScript(src, callback) {
-    var script = document.createElement("script")
+    let script = document.createElement("script")
     script.src = src;
     script.onload = function() {
         console.log("Loaded script with SRC: " + src)
