@@ -9,11 +9,11 @@ function loadScript(src, callback) {
 }
 
 function hello(src){
-    alert('Hello World', + src);
+    alert('Hello World' + src);
 }
 
-function goodmorning(){
-    alert('Goodmorning')
+function goodmorning(src){
+    alert('Goodmorning' + src);
 }
 
 loadScript("https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js", hello);
