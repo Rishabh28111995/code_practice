@@ -9,7 +9,7 @@ p1.then((value)=>{
 
     console.log(value)
     let p2 = new Promise((resolve, reject)=>{
-       setTimeout(()=>{ resolve("Promise 2") }
+       setTimeout(()=>{ resolve("Promise 2") }, 3000)
     })
     return p2
 }).then((value)=>{
