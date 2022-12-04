@@ -1,4 +1,4 @@
-let p1 = new Promise((resolve, reject)=>{
+/*let p1 = new Promise((resolve, reject)=>{
     setTimeout(()=>{
         console.log("resolved after 3 seconds")
         resolve(56)
@@ -14,4 +14,7 @@ p1.then((value)=>{
     return p2
 }).then((value)=>{
     console.log("We are Done")
-})
+})*/
+
+
+
