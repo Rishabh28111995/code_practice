@@ -10,5 +10,6 @@ p1.then((value)=>{
     console.log(value)
     let p2 = newPromise((resolve, reject)=>{
         resolve("Promise 2")
-    }
-})
+    })
+    return p2
+}).
