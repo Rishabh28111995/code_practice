@@ -9,6 +9,6 @@ p1.then((value)=>{
 
     console.log(value)
     let p2 = newPromise((resolve)){
-        resolve("PROMISE")
+        resolve("Promise 2")
     }
 })
