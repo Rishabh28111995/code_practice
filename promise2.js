@@ -14,5 +14,4 @@ p1.then((value)=>{
     return p2
 }).then((value)=>{
     console.log("We are Done")
-    return 2
 })
