@@ -12,4 +12,6 @@ p1.then((value)=>{
         resolve("Promise 2")
     })
     return p2
-}).
+}).then((value)=>{
+    console.log("We are Done")
+})
