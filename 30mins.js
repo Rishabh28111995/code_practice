@@ -1,4 +1,4 @@
-console.log("hello world");
+/*console.log("hello world");
 var myStr = "My name is Rishabh."
 myStr += "Who are you?"
 console.log(myStr)
@@ -12,4 +12,4 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
     return result;
 
 }
-console.log("dog", "big", "ran", "quickly")
+console.log(wordBlanks("dog", "big", "ran", "quickly"));
