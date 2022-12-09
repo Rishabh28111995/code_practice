@@ -1,2 +1,3 @@
 console.log("hello world");
-var 
+var myStr = "My name is Rishabh."
+myStr += ""
