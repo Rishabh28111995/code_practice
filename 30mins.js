@@ -22,4 +22,6 @@ var myArray = [10, 20, 30, 40, 50]
 myArray = myArray[4]
 console.log(myArray)
 var ourArray = [10, 20, 30, 50]
-ourArray
+ourArray[1] = 40;
+ourArray[2] = 100;
+console.log() 
