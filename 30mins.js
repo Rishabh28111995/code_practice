@@ -19,5 +19,5 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
 console.log(wordBlanks("dog" , "big ", " ran ", "quickly"));
 
 var myArray = [10, 20, 30, 40, 50]
-myArray = 
+myArray = myArray[4]
 console.log(myArray)
