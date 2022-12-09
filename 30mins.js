@@ -8,7 +8,7 @@ console.log(lastName[5])
 console.log(myStr.length)*/
 function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
     var result = "";
-    result += "The " + myAdjective + myNoun + myVerb + " to the store " + myAdverb.
+    result += "The " +  myAdjective  +  myNoun  +  myVerb  +  " to the store " + myAdverb;
     return result;
 
 }
