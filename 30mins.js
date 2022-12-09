@@ -5,3 +5,4 @@ console.log(myStr)
 var lastName = "Sharma";
 console.log(lastName.length - 1)
 console.log(lastName[5])
+console.log(myStr.length)
