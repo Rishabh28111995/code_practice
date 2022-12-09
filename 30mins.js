@@ -21,3 +21,5 @@ console.log(wordBlanks("dog" , "big ", " ran ", "quickly"));
 var myArray = [10, 20, 30, 40, 50]
 myArray = myArray[4]
 console.log(myArray)
+var ourArray = [10, 20, 30, 50]
+ourArray
