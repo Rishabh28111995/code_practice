@@ -27,6 +27,6 @@ ourArray[2] = 100;
 console.log(ourArray) */
 
 
-var myArray = [[1, 2, 3], [4, 5, 6], [[7, 8, 9], [12]]];
+var myArray = [[1, 2, 3], [4, 5, 6], [[7, 8, 9], [12, 13,14]]];
 myArray = myArray[2][1][2];
 console.log(myArray)
