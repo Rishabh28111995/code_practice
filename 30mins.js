@@ -6,4 +6,7 @@ var lastName = "Sharma";
 console.log(lastName.length - 1)
 console.log(lastName[5])
 console.log(myStr.length)
-function wordBlanks(myNoun, myAdjective)
+function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
+    var result = "";
+    result += 
+}
