@@ -27,3 +27,4 @@ ourArray[2] = 100;
 console.log(ourArray) */
 
 
+var myArray = [[1, 2, 3], [4,]]
