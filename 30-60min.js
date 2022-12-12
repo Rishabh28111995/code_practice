@@ -14,7 +14,7 @@ firstArray.shift()
 console.log(firstArray) 
 //[ 3, 4, 5 ]
 
-// to add first letter
+// to add elememt at the beginning of an array just opp. to push
 var secondArray = ["Cat", "Dog", "Love"]
 secondArray.unshift("lion")
 console.log(secondArray)
