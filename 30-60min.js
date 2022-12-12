@@ -14,7 +14,8 @@ firstArray.shift()
 console.log(firstArray) 
 //[ 3, 4, 5 ]
 
-// to replace first letter
-var secondArray = ["Cat", "Dog", Love]
-secondArray.unshift(lion)
+// to add first letter
+var secondArray = ["Cat", "Dog", "Love"]
+secondArray.unshift("lion")
 console.log(secondArray)
+//[ 'lion', 'Cat', 'Dog', 'Love' ]
