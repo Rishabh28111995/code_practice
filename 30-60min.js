@@ -9,6 +9,9 @@ ourArray.pop();
 console.log(ourArray)
 //[ 1, 2, 3 ]
 
-var firstArray = [1, 2, 3, 4, 5]
+var firstArray = [[1, 2], 3, 4, 5]
 firstArray.shift()
 console.log(firstArray) 
+//[ 3, 4, 5 ]
+
+// to add fir
