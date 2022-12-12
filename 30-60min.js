@@ -6,3 +6,6 @@ console.log(myArray)
 // Remove array
 var ourArray = [1, 2, 3, 4]
 ourArray.pop();
+console.log(ourArray)
+//[ 1, 2, 3 ]
+
