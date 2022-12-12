@@ -20,4 +20,6 @@ secondArray.unshift(["lion", 24])
 console.log(secondArray)
 //[ [ 'lion', 24 ], 'Cat', 'Dog', 'Love' ]
 
+//Nested array
+
 var myList = [["cereal", 3], ["milk", 2], ["bananas", 3], ["juice", 4]] 
