@@ -24,4 +24,8 @@ console.log(secondArray)
 
 //var myList = [["cereal", 3], ["milk", 2], ["bananas", 3], ["juice", 4]] */
 
-function ourReusableFunction() {}
+function ourReusableFunction() {
+    console.log("Hello World");
+}
+ourReusableFunction();
+ourReusableFunction()
