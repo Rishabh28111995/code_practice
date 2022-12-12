@@ -1,4 +1,4 @@
-var myArray = [["rish", 23], ["cat", 13]];
+/*var myArray = [["rish", 23], ["cat", 13]];
 myArray.push(["Manish", 45])
 console.log(myArray)
 //[ [ 'rish', 23 ], [ 'cat', 13 ], [ 'Manish', 45 ] ]
@@ -22,4 +22,6 @@ console.log(secondArray)
 
 //Nested array
 
-var myList = [["cereal", 3], ["milk", 2], ["bananas", 3], ["juice", 4]] 
+//var myList = [["cereal", 3], ["milk", 2], ["bananas", 3], ["juice", 4]] */
+
+function ourReusableFunction() {}
