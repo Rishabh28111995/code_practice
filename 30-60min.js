@@ -16,7 +16,7 @@ console.log(firstArray)
 
 // to add elememt at the beginning of an array just opp. to push
 var secondArray = ["Cat", "Dog", "Love"]
-secondArray.unshift("lion")
+secondArray.unshift(["lion", 24])
 console.log(secondArray)
-//[ 'lion', 'Cat', 'Dog', 'Love' ]
+//[ [ 'lion', 24 ], 'Cat', 'Dog', 'Love' ]
 
