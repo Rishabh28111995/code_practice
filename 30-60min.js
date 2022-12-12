@@ -20,3 +20,4 @@ secondArray.unshift(["lion", 24])
 console.log(secondArray)
 //[ [ 'lion', 24 ], 'Cat', 'Dog', 'Love' ]
 
+var myList = [["cereal", 3]]
