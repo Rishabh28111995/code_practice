@@ -13,5 +13,6 @@ myLocalSpace();
  
 var outWear = "T-Shirt";
 function myOutput() {
-  var myOutfit
+  var outWear = "Sweater";
+   return o
 }
