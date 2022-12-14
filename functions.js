@@ -44,8 +44,9 @@ console.log(sum)*/
 
 function ourTrueorFalse(isItTrue) {
   if (isItTrue) {
-    return 
+    return "Yes, it's true";
   }
+  
 }
 
 
