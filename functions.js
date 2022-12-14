@@ -10,3 +10,5 @@ function myLocalSpace() {
 console.log(myVar)
 }
 myLocalSpace();
+ 
+var outWear = "T-"
