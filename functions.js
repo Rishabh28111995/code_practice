@@ -11,4 +11,7 @@ console.log(myVar)
 }
 myLocalSpace();
  
-var outWear = "T-"
+var outWear = "T-Shirt";
+function myOutput() {
+  var myOutfit
+}
