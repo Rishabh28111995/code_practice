@@ -42,11 +42,8 @@ function addThree() {
 console.log(sum)*/
 
 
-function ourTrueorFalse(isItTrue) {
-  if (isItTrue) {
-    return "Yes, it's true";
-  }
-
+function testEqual(val) {
+  if ()
 }
 
 
