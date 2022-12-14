@@ -51,6 +51,7 @@ function testEqual(val) {
 
 console.log(testEqual(10));
 console.log(testEqual(12));
+console.log(testEqual(20));
 
 
 
