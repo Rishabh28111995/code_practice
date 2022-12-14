@@ -46,8 +46,10 @@ function testEqual(val) {
   if (val == 12){
     return "Equal";
   }
-  return 
+  return "Not Equal";
 }
+
+
 
 
 
