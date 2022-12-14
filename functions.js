@@ -48,8 +48,7 @@ function testEqual(val) {
   }
   return "Not Equal";
 }
-
-
+console.log(testEqual(10));
 
 
 
