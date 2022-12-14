@@ -6,7 +6,7 @@ sum(123, 78);
 sum(9, 100);
 
 function myLocalSpace() {
-  var myVar = 5;
+  var myVar = 10;
 console.log(myVar)
 }
 myLocalSpace();
