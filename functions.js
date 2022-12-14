@@ -46,7 +46,7 @@ function ourTrueorFalse(isItTrue) {
   if (isItTrue) {
     return "Yes, it's true";
   }
-  
+
 }
 
 
