@@ -42,7 +42,11 @@ function addThree() {
 console.log(sum)*/
 
 
-function ourTrueorFalse(is)
+function ourTrueorFalse(isItTrue) {
+  if (isItTrue) {
+    return 
+  }
+}
 
 
 
