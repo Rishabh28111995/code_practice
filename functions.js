@@ -37,7 +37,6 @@ console.log(timesTen(89));
 
 var sum = 1;
 function addThree() {
-  var sum = 4;
   sum = sum + 3;
 }
 console.log(sum)
