@@ -43,7 +43,10 @@ console.log(sum)*/
 
 
 function testEqual(val) {
-  if ()
+  if (val == 12){
+    return "Equal";
+  }
+  return 
 }
 
 
