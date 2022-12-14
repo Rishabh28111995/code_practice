@@ -17,3 +17,6 @@ function myOutput() {
    return outWear;
 }
 console.log(myOutput());
+
+
+
