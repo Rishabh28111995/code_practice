@@ -27,8 +27,9 @@ function minusSeven(num) {
 console.log(minusSeven(10));
 
 function timesTen(num) {
-  
+  return num * 10
 }
+console.log(timesTen(10))
 
 
  
