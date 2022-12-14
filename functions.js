@@ -19,5 +19,7 @@ function myOutput() {
 console.log(myOutput());
 console.log(outWear)
 
+function minusSeven
+
 
  
