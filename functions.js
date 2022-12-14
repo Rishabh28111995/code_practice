@@ -19,7 +19,12 @@ function myOutput() {
 console.log(myOutput());
 console.log(outWear)
 
-function minusSeven
+
+function minusSeven(num) {
+  return num - 7;
+
+}
+
 
 
  
