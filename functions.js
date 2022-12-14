@@ -31,7 +31,8 @@ function timesTen(num) {
 }
 console.log(timesTen(10));
 
-console.log(minusSeven())
+console.log(minusSeven(70));
+
 
 
 
