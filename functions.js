@@ -1,4 +1,4 @@
-function sum(a, b) {
+/*function sum(a, b) {
   console.log(a * a + b * b)
 }
 sum(9, 9);
@@ -39,10 +39,10 @@ var sum = 1;
 function addThree() {
   sum =+ 3;
 }
-console.log(sum)
+console.log(sum)*/
 
 
-
+function our
 
 
 
