@@ -111,5 +111,9 @@ console.log(testLogicalOr(11))
 
 console.log(testLogicalOr(21))
 
-function orderMyLogic()
+function orderMyLogic(val) {
+  if (val < 5){
+    return "Less than 5"
+  } el
+}
 
