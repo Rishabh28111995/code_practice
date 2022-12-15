@@ -97,3 +97,4 @@ function testLogicalEnd (val){
   return "No"
 }
 console.log(testLogicalEnd(49))
+console.log(testLogicalEnd(100))
