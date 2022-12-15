@@ -76,6 +76,8 @@ function testEqual(val) {
 
 
  function lessThanEqual (val) {
-  if 
+  if (val <= 10) {
+    return "smaller or "
+  }
  }
 
