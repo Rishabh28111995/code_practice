@@ -61,7 +61,10 @@ function testEqual(val) {
  console.log(testEqual(12));
 
  function greaterThen (val) {
-  if (val 
+  if (val > 100) {
+    return ("Over 100");
+  } 
+  if val > 10) 
  }
 
 
