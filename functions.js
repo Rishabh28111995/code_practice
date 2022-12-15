@@ -86,4 +86,7 @@ function testEqual(val) {
  }
 
  console.log(lessThanEqual(123))
+ console.log(lessThanEqual(100))
+ console.log(lessThanEqual(123))
+ console.log(lessThanEqual(123))
 
