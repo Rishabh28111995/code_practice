@@ -111,3 +111,5 @@ console.log(testLogicalOr(11))
 
 console.log(testLogicalOr(21))
 
+function orderMyLogic()
+
