@@ -60,4 +60,8 @@ function testEqual(val) {
   // !==
  console.log(testEqual(12));
 
- 
+ function greaterThen (val) {
+  if (val 
+ }
+
+
