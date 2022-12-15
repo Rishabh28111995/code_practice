@@ -44,14 +44,14 @@ console.log(sum)*/
 
 function testEqual(val) {
   if (val != 12){
-    return "Equal";
+    return "Not Equal";
   }
-  return "Not Equal";
+  return "Equal";
 }
 
-console.log(testEqual(10));
-console.log(testEqual(12));
-console.log(testEqual(20));
+//console.log(testEqual(10));
+//console.log(testEqual(12));
+//console.log(testEqual(20));
 
 //Equality operator
 //( strict)3===3 true
