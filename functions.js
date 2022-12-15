@@ -60,15 +60,15 @@ function testEqual(val) {
   // !==
  console.log(testEqual(12));
 
- function greaterThen (val) {
+ function greaterThan (val) {
   if (val > 100) {
-    return ("Over 100");
+    return "Over 100";
   } 
   if (val > 10) {
-    return ("Over 10")
+    return "Over 10"
 
   }
-  return ("10 or under"); 
+  return "10 or under"; 
  }
 
  console.log(greaterThan(12))
