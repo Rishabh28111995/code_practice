@@ -104,5 +104,8 @@ function testLogicalOr (val) {
     return "Outside";
   }
   return "Inside";
+
 }
+
+console.log(testLogicalOr(100))
 
