@@ -100,6 +100,8 @@ console.log(testLogicalEnd(49))
 console.log(testLogicalEnd(100))
 
 function testLogicalOr (val) {
-  if (val < 10 || )
+  if (val < 10 || val > 20 ) {
+    return ""
+  }
 }
 
