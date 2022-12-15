@@ -71,4 +71,5 @@ function testEqual(val) {
   return ("10 or under"); 
  }
 
+ console.log(greaterThan(12))
 
