@@ -96,4 +96,4 @@ function testLogicalEnd (val){
   }
   return "No"
 }
-console.log()
+console.log(testLogicalEnd(49))
