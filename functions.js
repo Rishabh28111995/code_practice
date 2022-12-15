@@ -114,9 +114,11 @@ console.log(testLogicalOr(21))
 function orderMyLogic(val) {
   if (val < 5){
     return "Less than 5"
-  } else if (val < 10){
-    return "Less than 10";
+  } else if (val <= 10){
+    return "Less than or equals 10";
   }
-  el
+  else {return ""
+
+  }
 }
 
