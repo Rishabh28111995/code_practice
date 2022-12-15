@@ -80,8 +80,10 @@ function testEqual(val) {
     return "smaller or equal 10"
   }
   if (val <= 100){
-    return "smal"
+    return "smaller or equal 100"
   }
-
+    return "More than 100"
  }
+
+ console.log(lessThanEqual(123))
 
