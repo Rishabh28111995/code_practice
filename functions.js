@@ -74,3 +74,8 @@ function testEqual(val) {
  console.log(greaterThan(12))
  console.log(greaterThan(1233455))
 
+
+ function lessThanEqual (val) {
+  if 
+ }
+
