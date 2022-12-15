@@ -89,7 +89,7 @@ function testEqual(val) {
  console.log(lessThanEqual(100))
  console.log(lessThanEqual(10))
  console.log(lessThanEqual(1))*/
-
+/*
 function testLogicalEnd (val){
   if (val <= 50 && val >= 25){
     return "Yes"
@@ -121,7 +121,7 @@ function orderMyLogic(val) {
 
   }
 }
-console.log(orderMyLogic(9))
+console.log(orderMyLogic(9))*/
 
 var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double bogey", "Go home"];
 function golfScore(par, strokes){
