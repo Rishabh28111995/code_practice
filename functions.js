@@ -144,6 +144,7 @@ function golfScore(par, strokes){
 }
 console.log(golfScore(5, 4));
 console.log(golfScore(5, 1));
-console.log(golfScore(5, 4));
-console.log(golfScore(5, 4));
-console.log(golfScore(5, 4));console.log(golfScore(5, 4));
+console.log(golfScore(5, 8));
+console.log(golfScore(5, 7));
+console.log(golfScore(5, 3));
+console.log(golfScore(5, 5));
