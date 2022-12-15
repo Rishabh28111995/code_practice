@@ -98,3 +98,6 @@ function testLogicalEnd (val){
 }
 console.log(testLogicalEnd(49))
 console.log(testLogicalEnd(100))
+
+function testLogicalOr 
+
