@@ -117,8 +117,9 @@ function orderMyLogic(val) {
   } else if (val <= 10){
     return "Less than or equals 10";
   }
-  else {return ""
+  else {return "Greater than 10"
 
   }
 }
+console.log()
 
