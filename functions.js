@@ -109,5 +109,5 @@ function testLogicalOr (val) {
 
 console.log(testLogicalOr(11))
 
-console.log(testLogicalOr(20))
+console.log(testLogicalOr(21))
 
