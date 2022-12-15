@@ -121,5 +121,5 @@ function orderMyLogic(val) {
 
   }
 }
-console.log()
+console.log(orderMyLogic(9))
 
