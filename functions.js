@@ -107,5 +107,5 @@ function testLogicalOr (val) {
 
 }
 
-console.log(testLogicalOr(100))
+console.log(testLogicalOr(11))
 
