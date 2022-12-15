@@ -77,7 +77,11 @@ function testEqual(val) {
 
  function lessThanEqual (val) {
   if (val <= 10) {
-    return "smaller or "
+    return "smaller or equal 10"
   }
+  if (val <= 100){
+    return "smal"
+  }
+
  }
 
