@@ -128,4 +128,5 @@ function golfScore(par, strokes){
   if (strokes = 1){
     return names[0]
   }
+  else if (strokes = 2)
 }
