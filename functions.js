@@ -123,12 +123,12 @@ function orderMyLogic(val) {
 }
 console.log(orderMyLogic(9))
 
-var name = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double bogey", "Go home"];
+var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double bogey", "Go home"];
 function golfScore(par, strokes){
   if (strokes = 1){
-    return name[0]
+    return names[0]
   }
   else if (strokes <= par - 2){
-    return name
-  }
+    return names[1]
+  }else if ()
 }
