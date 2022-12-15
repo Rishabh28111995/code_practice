@@ -68,8 +68,9 @@ function testEqual(val) {
     return ("Over 10")
 
   }
-  return "10 or under"; 
+  return ("10 or under"); 
  }
 
  console.log(greaterThan(12))
+ console.log(greaterThan(1233455))
 
