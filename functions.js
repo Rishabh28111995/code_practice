@@ -123,4 +123,5 @@ function orderMyLogic(val) {
 }
 console.log(orderMyLogic(9))
 
-var name = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", ""]
+var name = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double bogey", "Go home"];
+fuction golfScore(par, )
