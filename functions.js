@@ -58,4 +58,4 @@ function testEqual(val) {
 // 3==="3" false
 // strict inequality operator
   // !==
- 
+ console.log(testEqual(12))
