@@ -123,3 +123,4 @@ function orderMyLogic(val) {
 }
 console.log(orderMyLogic(9))
 
+var name = ["Hole in one"]
