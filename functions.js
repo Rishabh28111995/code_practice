@@ -90,4 +90,6 @@ function testEqual(val) {
  console.log(lessThanEqual(10))
  console.log(lessThanEqual(1))*/
 
-function 
+function testLogicalEnd (val){
+  if (val <= 50 && val >=)
+}
