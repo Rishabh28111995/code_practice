@@ -56,6 +56,6 @@ function testEqual(val) {
 //Equality operator
 //( strict)3===3 true
 // 3==="3" false
-
-
+// strict inequality operator
+  // !==
  
