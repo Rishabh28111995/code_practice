@@ -54,5 +54,8 @@ console.log(testEqual(12));
 console.log(testEqual(20));
 
 //Equality operator
+//( strict)3===3 true
+// 3==="3" false
+
 
  
