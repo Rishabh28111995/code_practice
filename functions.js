@@ -142,4 +142,4 @@ function golfScore(par, strokes){
     return names[6]
   }
 }
-console.log(golfScore(5, 3))
+console.log(golfScore(5, 4));
