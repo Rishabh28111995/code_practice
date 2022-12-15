@@ -101,7 +101,8 @@ console.log(testLogicalEnd(100))
 
 function testLogicalOr (val) {
   if (val < 10 || val > 20 ) {
-    return ""
+    return "Outside";
   }
+  return "Inside";
 }
 
