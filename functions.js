@@ -41,7 +41,7 @@ function addThree() {
 }
 console.log(sum)*/
 
-
+/*
 function testEqual(val) {
   if (val != 12){
     return "Not Equal";
@@ -88,5 +88,6 @@ function testEqual(val) {
  console.log(lessThanEqual(123))
  console.log(lessThanEqual(100))
  console.log(lessThanEqual(10))
- console.log(lessThanEqual(1))
+ console.log(lessThanEqual(1))*/
 
+function 
