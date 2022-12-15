@@ -138,7 +138,7 @@ function golfScore(par, strokes){
     return names[4]
   }else if (strokes == par + 2){
     return names[5]
-  }else (strokes >= par + 3) {
+  }else (strokes >= par + 3){
     return names[6]
   }
 }
