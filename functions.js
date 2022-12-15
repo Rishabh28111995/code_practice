@@ -53,6 +53,6 @@ console.log(testEqual(10));
 console.log(testEqual(12));
 console.log(testEqual(20));
 
-//
+//Equality operator
 
  
