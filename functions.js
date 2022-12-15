@@ -91,5 +91,9 @@ function testEqual(val) {
  console.log(lessThanEqual(1))*/
 
 function testLogicalEnd (val){
-  if (val <= 50 && val >=)
+  if (val <= 50 && val >= 25){
+    return "Yes"
+  }
+  return "No"
 }
+console.log()
