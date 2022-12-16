@@ -19,7 +19,8 @@ function caseInSwitch(val) {
             break;
             // if not in any of case
             default;
-            answer
+            answer = "Bang";
+            break;
 
 }
  return answer;
@@ -29,3 +30,4 @@ console.log(caseInSwitch(1))
 console.log(caseInSwitch(2))
 console.log(caseInSwitch(3))
 console.log(caseInSwitch(4))
+console.log(caseInSwitch(1))
