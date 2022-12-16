@@ -2,6 +2,8 @@
 function caseInSwitch(val) {
    var answer = "";
    switch(val){
-    case
+    case 1:
+        answer = "alpha";
+        break;
    }
 }
