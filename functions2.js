@@ -23,3 +23,6 @@ function caseInSwitch(val) {
 }
 
 console.log(caseInSwitch(1))
+console.log(caseInSwitch(1))
+console.log(caseInSwitch(1))
+console.log(caseInSwitch(1)
