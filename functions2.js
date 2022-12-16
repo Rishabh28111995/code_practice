@@ -68,4 +68,5 @@ function sequentialSizes(val) {
 function isLess(a, b){
     return a > b;
 }
-console.log((12, 56)
+console.log(isLess(12, 56))
+console.log(isLess(12, 08))
