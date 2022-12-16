@@ -49,4 +49,4 @@ function sequentialSizes(val) {
 
     }
 }
- console.log
+ console.log(sequentialSizes(4))
