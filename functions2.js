@@ -44,9 +44,9 @@ function sequentialSizes(val) {
             case 4:
             case 5:
             case 6:
-                   answer = "mid"
+            answer = "mid";
                    break;
 
     }
 }
- console.log(sequentialSizes(4))
+ console.log(sequentialSizes(1))
