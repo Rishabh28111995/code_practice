@@ -1,3 +1,3 @@
-function caseInSwitch (val) {
-    
+function caseInSwitch(val) {
+   
 }
