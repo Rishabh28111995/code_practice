@@ -63,8 +63,9 @@ function sequentialSizes(val) {
         // why False does'nt work
     //}
 // } 
- console.log(isLess(10, 90))
+ //console.log(isLess(10, 90))
 
-
-
- function isLess(a, b)
+function isLess(a, b){
+    return a > b;
+}
+console.log((12, 56)
