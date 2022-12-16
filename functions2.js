@@ -36,7 +36,9 @@ console.log(caseInSwitch("a"))
 function sequentialSizes(val) {
     var answer = "";
     switch(val) {
-        
+        case 1:
+         case 2:
+            
     }
 }
  
