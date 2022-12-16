@@ -21,3 +21,5 @@ function caseInSwitch(val) {
 }
  return answer;
 }
+
+console.log(caseInSwitch(1))
