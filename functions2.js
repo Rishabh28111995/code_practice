@@ -33,5 +33,10 @@ console.log(caseInSwitch(4))
 console.log(caseInSwitch("a"))
 
 
-function sequential
+function sequentialSizes(val) {
+    var answer = "";
+    switch(val) {
+        
+    }
+}
  
