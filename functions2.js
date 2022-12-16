@@ -60,6 +60,7 @@ function sequentialSizes(val) {
         return true;
     }else {
         return false;
+        // why False does'nt work
     }
  } 
  console.log(isLess(10, 90))
