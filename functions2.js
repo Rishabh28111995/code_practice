@@ -31,4 +31,7 @@ console.log(caseInSwitch(2))
 console.log(caseInSwitch(3))
 console.log(caseInSwitch(4))
 console.log(caseInSwitch("a"))
+
+
+
  
