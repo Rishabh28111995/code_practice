@@ -8,6 +8,16 @@ function caseInSwitch(val) {
    
    case 2:
     answer = "beta";
-    break;}
-    
+    break;
+
+    case 3:
+        answer = "gamma";
+        break;
+
+        case 4:
+            answer = "delta";
+            break;
+
+}
+ return answer;
 }
