@@ -39,11 +39,13 @@ function sequentialSizes(val) {
         case 1:
          case 2:
         case 3:
-            answer = "Low"
-            case 1:
-            case 2:
-            case 3:
-                   answer = "Low"
+            answer = "Low";
+            break;
+            case 4:
+            case 5:
+            case 6:
+                   answer = "mid"
+                   break;
 
     }
 }
