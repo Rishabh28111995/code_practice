@@ -55,4 +55,8 @@ function sequentialSizes(val) {
 
  // boolean statement
 
- 
+ function isLess(a, b) {
+    if (a > b){
+        return true;
+    }else
+ }
