@@ -55,12 +55,16 @@ function sequentialSizes(val) {
 
  // boolean statement
 
- function isLess(a, b) {
-    if (a > b){
-        return true;
-    }else {
-        return false;
+ //function isLess(a, b) {
+   // if (a > b){
+     //   return true;
+    //}else {
+      //  return false;
         // why False does'nt work
-    }
- } 
+    //}
+// } 
  console.log(isLess(10, 90))
+
+
+
+ function isLess(a, b)
