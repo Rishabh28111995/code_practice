@@ -17,6 +17,9 @@ function caseInSwitch(val) {
         case 4:
             answer = "delta";
             break;
+            // if not in any of case
+            default;
+            answer
 
 }
  return answer;
