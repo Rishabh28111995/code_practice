@@ -48,5 +48,7 @@ function sequentialSizes(val) {
                    break;
 
     }
+    return answer;
 }
  console.log(sequentialSizes(1))
+ console.log(sequentialSizes(4))
