@@ -33,5 +33,5 @@ console.log(caseInSwitch(4))
 console.log(caseInSwitch("a"))
 
 
-
+function sequential
  
