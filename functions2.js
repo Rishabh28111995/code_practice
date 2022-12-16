@@ -1,5 +1,5 @@
 // switch statement instead of chained else if..
-function caseInSwitch(val) {
+/*function caseInSwitch(val) {
    var answer = "";
    switch(val){
     case 1:
@@ -51,4 +51,8 @@ function sequentialSizes(val) {
     return answer;
 }
  console.log(sequentialSizes(1))
- console.log(sequentialSizes(4))
+ console.log(sequentialSizes(4))*/
+
+ // boolean statement
+
+ 
