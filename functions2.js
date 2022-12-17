@@ -70,3 +70,4 @@ function isLess(a, b){
 }
 console.log(isLess(12, 56))
 console.log(isLess(12, 08))
+
