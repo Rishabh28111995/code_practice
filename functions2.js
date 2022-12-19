@@ -112,7 +112,7 @@ function phoneticLookup(val) {
 
     
 
-    return loo;
+    return lookup[val];
     ;
 }
 
