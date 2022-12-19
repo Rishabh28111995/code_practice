@@ -85,5 +85,6 @@ var shirtValue = testObj.shirt;
 console.log(hatValue)
 console.log(shirtValue)
   
-
+// BRacket notation
+var 
 
