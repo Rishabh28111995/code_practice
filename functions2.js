@@ -79,6 +79,7 @@ var testObj = {
 
 };
 
-var hatValue = testObj;
-var shirtValue = testObj;
+var hatValue = testObj.hat;
+var shirtValue = testObj.shirt;
+console.log()
 
