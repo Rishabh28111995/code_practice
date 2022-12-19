@@ -64,7 +64,7 @@ function sequentialSizes(val) {
     //}
 // } 
  //console.log(isLess(10, 90))
-
+/*
 function isLess(a, b){
     return a > b;
 }
