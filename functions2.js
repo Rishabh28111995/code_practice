@@ -72,6 +72,7 @@ console.log(isLess(12, 56))
 console.log(isLess(12, 08))
 console.log(isLess(12, 01))
 
+// Dot notation:
 var testObj = {
     "hat": "ballcap",
     "shirt": "jersey",
@@ -83,4 +84,6 @@ var hatValue = testObj.hat;
 var shirtValue = testObj.shirt;
 console.log(hatValue)
 console.log(shirtValue)
+  
+
 
