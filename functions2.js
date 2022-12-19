@@ -110,9 +110,10 @@ function phoneticLookup(val) {
         "foxtrot": "frank"
     };
 
-    result = lookup[val];
+    
 
-    return result;
+    return loo;
+    ;
 }
 
 console.log(phoneticLookup("echo"))
