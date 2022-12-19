@@ -119,3 +119,5 @@ function phoneticLookup(val) {
 console.log(phoneticLookup("echo"))
 console.log(phoneticLookup("alpha"))
 console.log(phoneticLookup("foxtrot"))
+
+
