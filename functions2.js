@@ -98,4 +98,11 @@ console.log(entreeValue)
 console.log(drinkValue)
 */
 
-function phoneticLookup()
+function phoneticLookup(val) {
+    var result = "";
+
+    var lookup = {
+        "alpha": "Adams",
+        "bravo"
+    }
+}
