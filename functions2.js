@@ -104,9 +104,11 @@ function phoneticLookup(val) {
     var lookup = {
         "alpha": "Adams",
         "bravo": "Boston",
-        "charlie":
-        "delta":
-        "echo":
-        "foxtrot"
-    }
+        "charlie": "Chicago",
+        "delta": "Denver",
+        "echo": "Easy",
+        "foxtrot": "frank"
+    };
+
+    re
 }
