@@ -4,7 +4,10 @@ var myStorage = {
     "car": {
         "inside": {
             "glove box": "maps",
-            "passenger seats": ""
+            "passenger seats": "crumbs"
+        },
+        "outside": {
+            "trunk": "jack"
         }
     }
 }
