@@ -81,5 +81,6 @@ var testObj = {
 
 var hatValue = testObj.hat;
 var shirtValue = testObj.shirt;
-console.log()
+console.log(hatValue)
+console.log(shirtValue)
 
