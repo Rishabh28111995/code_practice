@@ -75,7 +75,10 @@ console.log(isLess(12, 01))
 var testObj = {
     "hat": "ballcap",
     "shirt": "jersey",
-    "shoes"
+    "shoes": "cleats"
 
-}
+};
+
+var hatValue = testObj;
+var shirt
 
