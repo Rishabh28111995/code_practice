@@ -73,8 +73,9 @@ console.log(isLess(12, 08))
 console.log(isLess(12, 01))
 
 var testObj = {
-    "hat": "ballcap";
-    "shirt": "jersey";
+    "hat": "ballcap",
+    "shirt": "jersey",
+    "shoes"
 
 }
 
