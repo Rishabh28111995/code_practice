@@ -10,4 +10,6 @@ var myStorage = {
             "trunk": "jack"
         }
     }
-}
+};
+
+var 
