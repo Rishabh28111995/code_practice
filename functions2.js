@@ -86,5 +86,9 @@ console.log(hatValue)
 console.log(shirtValue)
   
 // BRacket notation
-var 
+var foodObj = {
+    "an entree": "hamburger",
+    "my side"
+
+}
 
