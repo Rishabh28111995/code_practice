@@ -72,3 +72,7 @@ console.log(isLess(12, 56))
 console.log(isLess(12, 08))
 console.log(isLess(12, 01))
 
+var testObj = {
+    "hat"
+}
+
