@@ -115,4 +115,4 @@ function phoneticLookup(val) {
     return result;
 }
 
-console.log(phoneticLooku())
+console.log(phoneticLookup("echo"))
