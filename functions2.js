@@ -94,5 +94,6 @@ var foodObj = {
 };
 var entreeValue = foodObj["an entree"];
 var drinkValue  = foodObj["the drink"];
-console,log
+console.log(entreeValue)
+console.log(drinkValue)
 
