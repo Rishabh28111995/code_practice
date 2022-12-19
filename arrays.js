@@ -1,5 +1,10 @@
 // nestewd objects
 
 var myStorage = {
-    "car": 
+    "car": {
+        "inside": {
+            "glove box": "maps",
+            "passenger seats": ""
+        }
+    }
 }
