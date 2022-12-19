@@ -110,5 +110,9 @@ function phoneticLookup(val) {
         "foxtrot": "frank"
     };
 
-    re
+    result = lookup[val];
+
+    return result;
 }
+
+console.log(phoneticLooku())
