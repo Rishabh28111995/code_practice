@@ -1,6 +1,6 @@
 // nestewd objects
 
-var myStorage = {
+/*var myStorage = {
     "car": {
         "inside": {
             "glove box": "maps",
@@ -15,4 +15,6 @@ var myStorage = {
 var gloveBoxContents = myStorage.car.inside["glove box"];
 
 console.log(gloveBoxContents)
+
+*/
 
