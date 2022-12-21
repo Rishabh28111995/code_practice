@@ -31,8 +31,8 @@ console.log(myArray)
 //FOR LOOP
 var ourArray = []
 
-for (var i = 0; i < 7; i++) {
+for (var i = 1; i < 7; i++) {
     ourArray.push(i);
 }
-
+console.log(ourArray)
 
