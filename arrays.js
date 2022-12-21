@@ -121,3 +121,6 @@ console.log(checkSign(2))
 console.log(checkSign(-2))
 
 // var is "function scoped" whereas let is "block scoped".
+
+
+// mutata an array  
