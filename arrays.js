@@ -69,7 +69,9 @@ function multiplyAll(arr) {
     console.log(product)
 
     // DO WHILE LOOP
+var myArray = [];
+var i = 10;
+while
 
-    
 
 
