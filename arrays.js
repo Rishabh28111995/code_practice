@@ -29,5 +29,9 @@ while(i < 7) {
 console.log(myArray)
 
 //FOR LOOP
-var our
+var ourArray = []
+
+for (var i = 0; i < 7; i++) {
+    
+}
 
