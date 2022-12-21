@@ -87,5 +87,7 @@ function randomFraction(){
 
 console.log(randomFraction());
 
-// Math.floor() function always rounds down and returns the 
+// Math.floor() rounds down and returns the 
 //largest integer less than or equal to a given number.
+
+
