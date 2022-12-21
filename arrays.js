@@ -19,8 +19,9 @@ console.log(gloveBoxContents)
 */
 
 //LOOP 
+var myArray = []
 var i = 0;
 while(i < 10) {
-    console.log(i);
+    myA(i);
     i++
 }
