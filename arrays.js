@@ -45,9 +45,9 @@ console.log(toArray)
 */
 
 var ourArr = [9, 10, 11, 12];
-var ourTotal = 0;
+var ourTotal = 5;
 
-for (var i = 0; i < 3; i++) {
+for (var i = 0; i < 4; i++) {
     ourTotal += ourArr[i]
 }
 
