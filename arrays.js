@@ -64,6 +64,6 @@ function multiplyAll(arr) {
       }
       return product
 }
-
+    var product = multiplyAll([[1, 2],[3, 4],[]])
 
 
