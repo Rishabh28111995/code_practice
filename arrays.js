@@ -20,6 +20,7 @@ console.log(gloveBoxContents)
 
 //LOOP 
 var myArray = [];
+
 var i = 0;
 while(i < 7) {
     myArray.push(i);
