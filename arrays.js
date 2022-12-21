@@ -38,6 +38,9 @@ console.log(ourArray)
 
 
 var toArray = []
-for (i = 1; i <)
+for (i = 1; i < 12; i += 2) {
+    toArray.push(i);
+}
+console.log()
 
 
