@@ -99,5 +99,5 @@ console.log(randomNumber())
 console.log(randomNumber())
 */
 function randomRange(myMin, myMax){
-return Math.floor(Math)
+return Math.floor(Math.random() * (myMax - myMin + 1))
 }
