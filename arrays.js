@@ -98,4 +98,6 @@ console.log(randomNumber())
 console.log(randomNumber())
 console.log(randomNumber())
 */
-function 
+function randomRange(myMin, myMax){
+return
+}
