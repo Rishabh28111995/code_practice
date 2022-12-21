@@ -136,4 +136,4 @@ console.log(s)
 // arrow function with parameter
 
 var myConcat = (arr3, arr2) => arr3.concat(arr2);
-co
+console.log(my([1, 2], [5, 6, 7])
