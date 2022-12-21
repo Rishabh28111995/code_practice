@@ -113,3 +113,4 @@ console.log(checkNumber(2, "2"))*/
 
 
 //nested ternary(conditional) operator 
+var check
