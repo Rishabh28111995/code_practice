@@ -44,7 +44,8 @@ for (i = 1; i < 12; i += 2) {
 console.log(toArray)
 */
 
-var 
+var ourArr = [9, 10, 11, 12];
+var ourTo
 
 
 
