@@ -57,7 +57,10 @@ console.log(ourTotal)
 function multiplyAll(arr) {
       var product = 1;
 
-      for (var i = 0; i< 0 ;i++ 0nst element = arvar[i;] 0    }
+      for (var i = 0; i < arr.length ;i++){
+        for 
+      }
+      
 }
 
 
