@@ -81,7 +81,7 @@ console.log(i, myArray)
 */
 // rrandom fractions
 
-function randomFraction(){
+/*function randomFraction(){
     return Math.random();
 }
 
@@ -97,4 +97,5 @@ console.log(randomNumber())
 console.log(randomNumber())
 console.log(randomNumber())
 console.log(randomNumber())
-
+*/
+function 
