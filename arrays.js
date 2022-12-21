@@ -135,4 +135,5 @@ console.log(s)
 
 // arrow function with parameter
 
-var myConcat = (arr1, arr2) => arr1.concatarr2
+var myConcat = (arr3, arr2) => arr3.concat(arr2);
+co
