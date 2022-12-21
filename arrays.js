@@ -93,5 +93,8 @@ function randomNumber(){
   return Math.floor(Math.random() * 25);
 
 }
-console.log(randomNumber)
+console.log(randomNumber())
+console.log(randomNumber())
+console.log(randomNumber())
+console.log(randomNumber())
 
