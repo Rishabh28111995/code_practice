@@ -62,7 +62,7 @@ function multiplyAll(arr) {
             product *= arr[i][j]
         }
       }
-      
+      return product
 }
 
 
