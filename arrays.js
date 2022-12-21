@@ -42,7 +42,7 @@ for (i = 1; i < 12; i += 2) {
     toArray.push(i);
 }
 console.log(toArray)
-*/
+
 
 var ourArr = [9, 10, 11, 12];
 var ourTotal = 5;
@@ -78,5 +78,7 @@ do {
 
 console.log(i, myArray)
 
+*/
+// rrandom fractions
 
-
+functio random
