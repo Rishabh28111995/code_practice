@@ -128,5 +128,7 @@ const s = [2, 3, 4];
 function editInPlace(){
     s[0] = 1;
     s[1] = 3;
-    s[2] = 
+    s[2] = 8;
 } 
+editInPlace();
+console.log(s)
