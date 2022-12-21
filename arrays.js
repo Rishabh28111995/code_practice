@@ -113,4 +113,6 @@ console.log(checkNumber(2, "2"))*/
 
 
 //nested ternary(conditional) operator 
-var check
+var checkSign(num){
+    return num > 0
+}
