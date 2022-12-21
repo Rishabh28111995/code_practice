@@ -82,7 +82,7 @@ console.log(i, myArray)
 // rrandom fractions
 
 function randomFraction(){
-    return Math.random()
+    return Math.random();
 }
 
-console.log(randomFraction)
+console.log(randomFraction());
