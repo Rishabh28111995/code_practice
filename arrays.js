@@ -36,11 +36,13 @@ for (var i = 1; i < 7; i++) {
 }
 console.log(ourArray)
 
-
+// for odd nos.
 var toArray = []
 for (i = 1; i < 12; i += 2) {
     toArray.push(i);
 }
-console.log()
+console.log(toArray)
+
+
 
 
