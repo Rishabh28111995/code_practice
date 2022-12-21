@@ -111,4 +111,4 @@ function checkNumber(a, b){
 }
 console.log(checkNumber(2, "2"))*/
 
-
+nested tern 
