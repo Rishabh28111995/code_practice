@@ -123,4 +123,5 @@ console.log(checkSign(-2))
 // var is "function scoped" whereas let is "block scoped".
 
 
-// mutata an array  
+// mutata an array declare with const
+const s = [2, 3, 4]; 
