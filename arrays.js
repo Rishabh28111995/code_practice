@@ -20,7 +20,7 @@ console.log(gloveBoxContents)
 
 //LOOP 
 var i = 0;
-while(i < 5) {
+while(i < 10) {
     console.log(i);
     i++
 }
