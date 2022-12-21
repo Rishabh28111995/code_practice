@@ -45,7 +45,11 @@ console.log(toArray)
 */
 
 var ourArr = [9, 10, 11, 12];
-var ourTo
+var ourTotal = 0;
+
+for (var i = 0; i< 4; i++) {
+    
+}
 
 
 
