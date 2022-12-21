@@ -19,7 +19,7 @@ console.log(gloveBoxContents)
 */
 
 // WHILE LOOP 
-var myArray = [];
+/*var myArray = [];
 
 var i = 0;
 while(i < 7) {
