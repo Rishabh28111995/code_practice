@@ -32,6 +32,7 @@ console.log(myArray)
 var ourArray = []
 
 for (var i = 0; i < 7; i++) {
-    
+    ourArray.push(i);
 }
+
 
