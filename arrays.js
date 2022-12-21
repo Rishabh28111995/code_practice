@@ -105,6 +105,6 @@ return Math.floor(Math.random() * (myMax - myMin + 1))
 console.log(randomRange(1, 8))
 
 function checkNumber(a, b){
-    return a === b;
+    return a == b;
 }
-console.log(checkNumber(2, 1))
+console.log(checkNumber(2, "2"))
