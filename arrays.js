@@ -98,6 +98,8 @@ console.log(randomNumber())
 console.log(randomNumber())
 console.log(randomNumber())
 */
+
+/*
 function randomRange(myMin, myMax){
 return Math.floor(Math.random() * (myMax - myMin + 1)) 
 + myMin;
@@ -107,4 +109,6 @@ console.log(randomRange(1, 8))
 function checkNumber(a, b){
     return a === b;
 }
-console.log(checkNumber(2, "2"))
+console.log(checkNumber(2, "2"))*/
+
+
