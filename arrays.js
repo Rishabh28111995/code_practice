@@ -55,7 +55,9 @@ console.log(ourTotal)
 
 //nesting for loops
 function multiplyAll(arr) {
-      
+      var product = 1;
+
+      for (var i = 0; i< 0 ;i++ 0nst element = arvar[i;] 0    }
 }
 
 
