@@ -68,6 +68,8 @@ function multiplyAll(arr) {
 
     console.log(product)
 
+    // DO WHILE LOOP
+
     
 
 
