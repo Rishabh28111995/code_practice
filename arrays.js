@@ -90,6 +90,8 @@ console.log(randomFraction());
 // Math.floor() rounds down and returns the 
 //largest integer less than or equal to a given number.
 function randomNumber(){
-  return Math.floor  
+  return Math.floor(Math.random() * 25);
+
 }
+console.log(randomNumber)
 
