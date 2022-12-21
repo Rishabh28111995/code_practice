@@ -124,4 +124,9 @@ console.log(checkSign(-2))
 
 
 // mutata an array declare with const
-const s = [2, 3, 4]; 
+const s = [2, 3, 4];
+function editInPlace(){
+    s[0] = 1;
+    s[1] = 3;
+    s[2] = 
+} 
