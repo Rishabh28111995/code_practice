@@ -71,10 +71,11 @@ function multiplyAll(arr) {
     // DO WHILE LOOP
 var myArray = [];
 var i = 10;
-while (i < 5){
+do {
     myArray.push(i);
     i++;
-}
+} while(i < 5)
+
 console.log(i, myArray)
 
 
