@@ -19,3 +19,6 @@ console.log(gloveBoxContents)
 */
 
 //LOOPS
+var myArray = []
+var i = 0;
+while
