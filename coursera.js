@@ -20,3 +20,10 @@ for (let i = 1; i < 11; i++){
         console.log(i)
     }
 }
+
+let i = 1;
+if(i == 0 && i == 1) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
