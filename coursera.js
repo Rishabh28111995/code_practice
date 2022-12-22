@@ -4,7 +4,7 @@ for (let i = 2023; i <= 2025; i++){
     for (let j = 6; j < 10; j++){
         console.log("-------", j)
         for( let k = 2; k < 4; k++){
-            console.log()
+            console.log("--", k)
         }
     }
 }
