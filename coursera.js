@@ -27,3 +27,7 @@ if(i == 0 && i == 1) {
   } else {
     console.log("Goodbye");
   }
+
+
+
+  !false
