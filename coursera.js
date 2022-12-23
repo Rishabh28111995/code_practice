@@ -28,6 +28,10 @@ if(i == 0 && i == 1) {
     console.log("Goodbye");
   }
 
-
+  for (let i = 1; i < 11; i++){
+    switch(i){
+        
+    }
+  }
 
   
