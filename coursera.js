@@ -34,7 +34,14 @@ if(i == 0 && i == 1) {
         console.log("Gold medal")
         break;
         case 2:
-            console.log("Silver medal") 
+            console.log("Silver medal")
+            break;
+            case 3:
+                console.log("Bronze medal")
+                break;
+                case 4:
+                    console.log(i)
+                    brea 
     }
   }
 
