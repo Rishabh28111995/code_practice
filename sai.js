@@ -1,2 +1,4 @@
-//((p)=>console.log(p))("hello sai")
-//
+((p)=>console.log(p))("hello sai")
+// let p = 'hello sai';
+// console.log(p);
+// p = 1;
