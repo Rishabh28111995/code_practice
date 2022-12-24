@@ -1,4 +1,1 @@
-const 
-fn = ()=>console.log("ifferishabh");
-
-(()=>console.log("ifferishabh1"))();
+((p)=>console.log(p))
