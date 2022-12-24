@@ -48,4 +48,4 @@ if(i == 0 && i == 1) {
     }
   }
 
-  consol
+  console.log("Goodbye")
