@@ -39,9 +39,12 @@ if(i == 0 && i == 1) {
             case 3:
                 console.log("Bronze medal")
                 break;
+                default:
                 case 4:
                     console.log(i)
-                    brea 
+                    break;
+                    
+
     }
   }
 
