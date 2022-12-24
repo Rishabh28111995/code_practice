@@ -1,2 +1,4 @@
 const 
-fn = ()=>"ifferishabh";
+fn = ()=>console.log("ifferishabh");
+
+();
