@@ -1,1 +1,2 @@
-((p)=>console.log(p))
+//((p)=>console.log(p))("hello sai")
+//
