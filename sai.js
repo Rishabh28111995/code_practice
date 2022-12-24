@@ -1,1 +1,2 @@
-const fn = ()=>"ifferishabh";
+const 
+fn = ()=>"ifferishabh";
