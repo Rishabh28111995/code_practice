@@ -1,6 +1,6 @@
 // iife is used when we dont need to declare a variable 
 // at global scope....
-
+/*
 
 (function () {
     console.log("My favorite number is 3")
@@ -19,13 +19,13 @@ console.log(greeting);
 //simple fields
 const createPerson = (name, age, gender) => ( { name, age, gender});
 console.log(createPerson("Rishabh", "27", "Male"));
-
+*/
 // class syntax
 // export and import
 function factorial(n) {
     if (n == 0 || n < 1)
     return 1;
-    for (let i = n; i >= n; i--){
+    for (let i = n; i >= 1; i--){
         n *= i;
     }
     return n
