@@ -4,6 +4,6 @@
 // p = 1;
 
 
-function () {
+(function () {
     console.log("My favorite number is 3")
-}
+})();
