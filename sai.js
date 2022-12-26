@@ -22,3 +22,6 @@ console.log(createPerson("Rishabh", "27", "Male"));
 
 // class syntax
 // export and import
+function factorial(n) {
+    if (n == 0 || n)
+}
