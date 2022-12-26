@@ -23,7 +23,7 @@ console.log(createPerson("Rishabh", "27", "Male"));
 // class syntax
 // export and import
 function factorial(n) {
-    if (n == 0 || n < 1)
+    if (n === 0 || n === 1)
     return 1;
     for (let i = n; i >= 1; i--){
         n *= i;
