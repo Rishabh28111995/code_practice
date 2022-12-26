@@ -21,3 +21,4 @@ const createPerson = (name, age, gender) => ( { name, age, gender});
 console.log(createPerson("Rishabh", "27", "Male"));
 
 // class syntax
+// export and import
