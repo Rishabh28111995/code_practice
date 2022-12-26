@@ -5,5 +5,5 @@
 
 
 function () {
-    console
+    console.log("My favorite number is 3")
 }
