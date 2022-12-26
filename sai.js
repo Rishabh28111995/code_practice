@@ -18,4 +18,4 @@ console.log(greeting);
 
 //simple fields
 const createPerson = (name, age, gender) => ( { name, age, gender});
-console.log(createPerson("Rishabh, "))
+console.log(createPerson("Rishabh", "27", "Male"))
