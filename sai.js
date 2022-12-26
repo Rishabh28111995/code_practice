@@ -17,4 +17,5 @@ I am ${person.age} years old.`;
 console.log(greeting);
 
 //simple fields
-const createPerson = (name, age, gender) => ()
+const createPerson = (name, age, gender) => ( { name, age, gender});
+console.log(createPerson("Rishabh, "))
