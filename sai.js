@@ -1,4 +1,5 @@
-// iife is used when we 
+// iife is used when we dont need to declare a variable 
+// at global scope....
 
 
 (function () {
