@@ -7,3 +7,8 @@
 })()
 
 //Temp. literals--( `------` )
+
+const person = {
+    name : "Rishabh sharma";
+    age : 
+}
