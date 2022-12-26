@@ -28,6 +28,8 @@ function factorial(n) {
     for (let i = n; i >= 1; i--){
         n *= i;
     }
-    return n
+    return n;
 }
-  factorial(9)
+  factorial(9);
+
+ 
