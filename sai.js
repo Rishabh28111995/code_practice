@@ -10,5 +10,6 @@
 
 const person = {
     name : "Rishabh sharma";
-    age : 
-}
+    age : 27
+};
+const greeting = `Hello, my name is ${}`
