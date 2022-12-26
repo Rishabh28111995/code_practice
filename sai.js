@@ -22,14 +22,14 @@ console.log(createPerson("Rishabh", "27", "Male"));
 */
 // class syntax
 // export and import
-function factorial(n) {
-    if (n === 0 || n === 1)
+function factorial(num) {
+    if (n === 0 || num === 1)
     return 1;}
     else { 
-        for (let i = n; i >= 1; i--){
-        n *= i;
+        for (let i = num; i >= 1; i--){
+        num *= i;
     }
-    return n;
+    return num;
 }
   factorial(9);
 
