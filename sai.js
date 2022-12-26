@@ -2,3 +2,8 @@
 // let p = 'hello sai';
 // console.log(p);
 // p = 1;
+
+
+function () {
+    console
+}
