@@ -30,10 +30,10 @@ function factorial(num) {
         num *= i;
     }
     return num;
-    else{
+    else {
         return " number is negative"
     }
 }
-  factorial(2);
+  console.log(factorial(2));
 
  
