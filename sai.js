@@ -28,7 +28,7 @@ function factorial(num) {
     return 1;
     }
     else if( num > 1 ){ 
-        for (let i = num; i > 1; i--){
+        for (let i = num; i >= 1; i--){
             num *= i;
         }
         return num;
