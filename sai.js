@@ -28,7 +28,7 @@ function factorial(num) {
     return 1;
     }
     else if( num > 1 ){ 
-        for (let i = num; i >= 1; i--){
+        for (let i = num; i <= 1; i++){
             num *= i;
         }
         return num;
@@ -37,7 +37,7 @@ function factorial(num) {
         return " number is negative."
     }
 }
-console.log(factorial(3));
+console.log(factorial());
 
 const recFact = (num)=>{
     if(num == 0)
