@@ -39,6 +39,11 @@ function factorial(num) {
 }
 console.log(factorial(12));
 
-const recFact = ()
+const recFact = (num){
+    if(num == 0)
+    return 1
+    else(num*recFact(num-1))
+}
+
 
  
