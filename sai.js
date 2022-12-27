@@ -23,14 +23,14 @@ console.log(createPerson("Rishabh", "27", "Male"));
 // class syntax
 // export and import
 function factorial(num) {
-    
+    let result = 1
     if (num == 0 || num == 1)
     {
     return 1;
     }
     else if( num > 1 ){ 
         for (let i = num; i >= 1; i--){
-            result = num *= i;
+            result *= i;
         }
         return result;
     }
@@ -38,7 +38,7 @@ function factorial(num) {
         return " number is negative."
     }
 }
-console.log(factorial());
+console.log(factorial(3));
 
 const recFact = (num)=>{
     if(num == 0)
