@@ -34,6 +34,6 @@ function factorial(num) {
         return " number is negative"
     }
 }
-  factorial(9);
+  factorial(2);
 
  
