@@ -30,15 +30,15 @@ function factorial(num) {
     }
     else if( num > 1 ){ 
         for (let i = num; i >= 1; i--){
-            num *= i;
+            result *= i;
         }
-        return num;
+        return result;
     }
     else {
         return " number is negative."
     }
 }
-console.log(factorial());
+console.log(factorial(4));
 
 const recFact = (num)=>{
     if(num == 0)
