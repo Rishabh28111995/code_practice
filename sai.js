@@ -30,9 +30,9 @@ function factorial(num) {
     }
     else if( num > 1 ){ 
         for (let i = num; i >= 1; i--){
-            result *= i;
+            num *= i;
         }
-        return result;
+        return num;
     }
     else {
         return " number is negative."
