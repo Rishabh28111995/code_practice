@@ -40,11 +40,12 @@ function factorial(num) {
 }
 console.log(factorial(5));
 
-const recFact = (num)=>{
-    if(num == 0)
-    return 1
+function recFact(num) {
+    if (num == 0)
+        return 1;
+
     else
-    return num*recFact(num-1);
+        return num * recFact(num - 1);
 }
 console.log(recFact(3))
 
