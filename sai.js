@@ -30,6 +30,9 @@ function factorial(num) {
         num *= i;
     }
     return num;
+    else{
+        return 
+    }
 }
   factorial(9);
 
