@@ -25,13 +25,13 @@ console.log(createPerson("Rishabh", "27", "Male"));
 function factorial(num) {
     if (num == 0 || num == 1)
     return 1;}
-    else if{ 
+    else if( mun > 1 ){ 
         for (let i = num; i >= 1; i--){
         num *= i;
     }
     return num;
     else{
-        return 
+        return " number is negative"
     }
 }
   factorial(9);
