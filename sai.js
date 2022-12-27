@@ -35,7 +35,7 @@ function factorial(num) {
         return " number is negative."
     }
 
-  console.log(factorial(2));z
+  console.log(factorial(2));
 }
 
  
