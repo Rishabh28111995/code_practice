@@ -25,7 +25,7 @@ console.log(createPerson("Rishabh", "27", "Male"));
 function factorial(num) {
     if (num == 0 || num == 1)
     return 1;}
-    else { 
+    else if{ 
         for (let i = num; i >= 1; i--){
         num *= i;
     }
