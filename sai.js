@@ -29,13 +29,16 @@ function factorial(num) {
     }
     else if( num > 1 ){ 
         for (let i = num; i >= 1; i--){
-        num *= i;}
+            num *= i;
+        }
+        return num;
     }
     else {
         return " number is negative."
     }
 
-  console.log(factorial(2));
+  
 }
+console.log(factorial(50));
 
  
