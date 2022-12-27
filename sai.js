@@ -36,9 +36,9 @@ function factorial(num) {
     else {
         return " number is negative."
     }
-
-  
 }
-console.log(factorial(50));
+console.log(factorial(12));
+
+const recFact = ()
 
  
