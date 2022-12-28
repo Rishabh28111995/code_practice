@@ -55,5 +55,7 @@ if(i == 0 && i == 1) {
   var house = {
     room: 3,
     color: "blue",
+    cost: "$1000"
   }
+  house.
   console.log(house)
