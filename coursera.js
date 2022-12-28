@@ -60,3 +60,10 @@ if(i == 0 && i == 1) {
   house.size = "10000sqft";
   house.windows = 10;
   console.log(house)
+
+  var car = {};
+car.color = "red";
+car["color"] = "green";
+car["speed"] = 200;
+car.speed = 100;
+console.log(car);
