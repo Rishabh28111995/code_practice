@@ -92,3 +92,5 @@ console.log(decimal)
 
 var result = "Hello".indexOf('l');
 console.log(result)
+
+var trim = Math.trim
