@@ -90,3 +90,5 @@ var decimal = Math.ceil(round)
 console.log(decimal)
 */
 
+var result = "Hello".indexOf('l');
+console.log(result)
