@@ -49,3 +49,10 @@ if(i == 0 && i == 1) {
   }
 
   console.log("Goodbye")
+
+  // object literals
+
+  var house = {
+    room: 3,
+    color
+  }
