@@ -59,4 +59,5 @@ if(i == 0 && i == 1) {
   }
   house.size = "10000sqft";
   house.windows = 10;
+  house.color = "red"
   console.log(house)
