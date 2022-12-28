@@ -87,3 +87,4 @@ var round = Math.random() * 10
 
 var decimal = Math.ceil(round)
 console.log(decimal)
+*/
