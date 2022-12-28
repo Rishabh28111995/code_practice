@@ -70,4 +70,4 @@ console.log(car);
 
 //Advantage of using bracket notation over dot notation
 // is that it can evaluate expressions.
-
+var arrOfKeys = ['speed', ]
