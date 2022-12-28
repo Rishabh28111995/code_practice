@@ -76,4 +76,6 @@ var drone = {
     altitude: 200,
     color: "red"
 }
-for (var i = 0; i < )
+for (var i = 0; i < arrOfKeys.length; i++){
+    console.log(drone[arrOfKeys[]])
+}
