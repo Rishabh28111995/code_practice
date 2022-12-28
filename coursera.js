@@ -68,4 +68,6 @@ car["speed"] = 200;
 car.speed = 100;
 console.log(car);
 
-//Advantage of using bracket notation over 
+//Advantage of using bracket notation over dot notation
+// is that it can evaluate expressions.
+
