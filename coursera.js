@@ -54,5 +54,5 @@ if(i == 0 && i == 1) {
 
   var house = {
     room: 3,
-    color
+    color: blue
   }
