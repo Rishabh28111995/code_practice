@@ -57,5 +57,5 @@ if(i == 0 && i == 1) {
     color: "blue",
     cost: "$1000"
   }
-  house.
+  house.size = "10000sqft";
   console.log(house)
