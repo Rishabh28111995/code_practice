@@ -70,6 +70,7 @@ console.log(car);
 */
 //Advantage of using bracket notation over dot notation
 // is that it can evaluate expressions.
+/*
 var arrOfKeys = ['speed', 'altitude', 'color'];
 var drone = {
     speed: 100,
@@ -88,3 +89,4 @@ var round = Math.random() * 10
 var decimal = Math.ceil(round)
 console.log(decimal)
 */
+
