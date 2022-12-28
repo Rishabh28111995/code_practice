@@ -1,5 +1,5 @@
 // nested loop
-for (let i = 2023; i <= 2025; i++){
+/*for (let i = 2023; i <= 2025; i++){
     console.log(i);
     for (let j = 6; j < 10; j++){
         console.log("-------", j)
@@ -67,7 +67,7 @@ car["color"] = "green";
 car["speed"] = 200;
 car.speed = 100;
 console.log(car);
-
+*/
 //Advantage of using bracket notation over dot notation
 // is that it can evaluate expressions.
 var arrOfKeys = ['speed', 'altitude', 'color'];
@@ -77,5 +77,5 @@ var drone = {
     color: "red"
 }
 for (var i = 0; i < arrOfKeys.length; i++){
-    console.log(drone[arrOfKeys[]])
+    console.log(drone[arrOfKeys[i]])
 }
