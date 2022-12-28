@@ -81,3 +81,4 @@ for (var i = 0; i < arrOfKeys.length; i++){
 }
 
 console.log(Math.random())
+console.log(Math.ceil(0.890)) // round off
