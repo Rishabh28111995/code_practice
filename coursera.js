@@ -58,5 +58,5 @@ if(i == 0 && i == 1) {
     cost: "$1000"
   }
   house.size = "10000sqft";
-  house.windows = ""
+  house.windows = 10;
   console.log(house)
