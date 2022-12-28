@@ -50,7 +50,7 @@ if(i == 0 && i == 1) {
 
   console.log("Goodbye")
 
-  // object literals
+  // object literals and dot notation.
 
   var house = {
     room: 3,
@@ -58,4 +58,5 @@ if(i == 0 && i == 1) {
     cost: "$1000"
   }
   house.size = "10000sqft";
+  house.windows = ""
   console.log(house)
