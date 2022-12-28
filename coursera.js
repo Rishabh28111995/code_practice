@@ -73,5 +73,7 @@ console.log(car);
 var arrOfKeys = ['speed', 'altitude', 'color'];
 var drone = {
     speed: 100,
-    altitude
+    altitude: 200,
+    color: "red"
 }
+for (var i = 0; i < )
