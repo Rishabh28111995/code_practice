@@ -93,5 +93,5 @@ console.log(decimal)
 var result = "Hello".indexOf('l');
 console.log(result)
 
-var trim = Math.sqrt(4)
+var trim = Math.sqrt(7)
 console.log(trim)
