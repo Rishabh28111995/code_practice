@@ -1,1 +1,1 @@
-req('./greet.js');
+require('./greet.js');
