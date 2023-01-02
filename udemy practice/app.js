@@ -1,1 +1,1 @@
-console.log('Hello Rishabh!');
+req('./greet.js');
