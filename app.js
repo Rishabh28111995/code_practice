@@ -3,5 +3,5 @@
 
 //IIFE
 (function () {
-    console.log(rishabh);
-}());
+    console.log('rishabh');
+})();
