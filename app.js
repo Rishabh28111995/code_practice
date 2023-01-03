@@ -2,6 +2,6 @@
 //greet();
 
 //IIFE
-(function () {
+(function (lastname) {
     console.log('rishabh');
 })();
