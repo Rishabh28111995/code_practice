@@ -1,2 +1,2 @@
-var greet = require('./greet.js');
-greet();
+//var greet = require('./greet.js');
+//greet();
