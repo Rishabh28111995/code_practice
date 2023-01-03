@@ -3,4 +3,3 @@ var greet = function() {
 
 };
 
-module.exports = greet;
