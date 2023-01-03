@@ -2,3 +2,6 @@
 //greet();
 
 //IIFE
+(function () {
+    console.log(rishabh);
+}());
