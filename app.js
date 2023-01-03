@@ -4,4 +4,5 @@
 //IIFE
 (function (lastname) {
     console.log('rishabh');
-})();
+    console.log(lastname)
+})('sharma');
