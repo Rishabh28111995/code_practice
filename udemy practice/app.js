@@ -1,1 +1,1 @@
-import './greet.js';
+require ('./greet.js');
