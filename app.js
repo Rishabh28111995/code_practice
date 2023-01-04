@@ -3,6 +3,6 @@
 
 //IIFE
 (function (lastname) {
-    console.log('rishabh');
+    console.log('rishabh sharma');
     console.log(lastname)
 })('sharma');
