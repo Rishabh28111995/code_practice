@@ -95,3 +95,6 @@ console.log(result)
 
 var trim = Math.sqrt(7)
 console.log(trim)
+
+//bugs and errors
+
