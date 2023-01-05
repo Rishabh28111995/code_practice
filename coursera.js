@@ -98,5 +98,7 @@ console.log(trim)
 
 //bugs and errors
 
-// bugs are when the code runs without interruption
+// Bugs are when the code runs without interruption
 // but not working how we intended it to work.
+
+//Errors
