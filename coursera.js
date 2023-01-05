@@ -124,4 +124,7 @@ try {
     console.log('There was a reference error.')
 }
 
+throw new Error();
+  console.log("Hello");
+
 
