@@ -112,5 +112,5 @@ try {
 } catch (err) {
     console.log(err)
     console.log("There was an error")
-    console.log("The error is saved in error lo")
+    console.log("The error is saved in error log")
 }
