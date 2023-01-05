@@ -125,4 +125,4 @@ try {
 }
 
 var letters = "abcd";
-letters.
+letters.match(/d/);
