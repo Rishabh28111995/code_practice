@@ -124,3 +124,5 @@ try {
     console.log('There was a reference error.')
 }
 
+var letters = "abcd";
+letters.
