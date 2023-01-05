@@ -110,6 +110,7 @@ console.log(trim)
 try {
     console.log(a + b)
 } catch (err) {
-    console.log()
-    
+    console.log(err)
+    console.log("There was an error")
+    console.log("The error is saved in error lo")
 }
