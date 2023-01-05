@@ -107,3 +107,9 @@ console.log(trim)
 //type error
 //reference error
 
+try {
+    console.log(a + b)
+} catch (err) {
+    console.log()
+    
+}
