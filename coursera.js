@@ -111,6 +111,7 @@ try {
     console.log(a + b)
 } catch (err) {
     console.log(err)
-    console.log("There was an error")
-    console.log("The error is saved in error log")
+    console.log("There was an error.")
+    console.log("The error is saved in error log.")
 }
+console.log('My prog. does not stop.')
