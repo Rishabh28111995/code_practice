@@ -105,4 +105,4 @@ console.log(trim)
 // stops execution of code.
 //syntax error
 //type error
-//reference 
+//reference error
