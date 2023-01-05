@@ -101,4 +101,4 @@ console.log(trim)
 // Bugs are when the code runs without interruption
 // but not working how we intended it to work.
 
-//Errors are
+//Errors when happen our program stops execution of code.
