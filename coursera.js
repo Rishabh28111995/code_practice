@@ -98,4 +98,4 @@ console.log(trim)
 
 //bugs and errors
 
-// bugs 
+// bugs are when the code runs without inter
