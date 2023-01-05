@@ -124,4 +124,3 @@ try {
     console.log('There was a reference error.')
 }
 
-console.log('a + b')
