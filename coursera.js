@@ -98,3 +98,4 @@ console.log(trim)
 
 //bugs and errors
 
+// bugs 
