@@ -115,11 +115,11 @@ try {
     console.log("The error is saved in error log.")
 }
 console.log('My prog. does not stop.')
-
+//
 try {
     throw new ReferenceError();
 
 } catch(err) {
     console.log(err)
-    console.log('')
+    console.log('There was a reference error.')
 }
