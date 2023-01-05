@@ -115,3 +115,7 @@ try {
     console.log("The error is saved in error log.")
 }
 console.log('My prog. does not stop.')
+
+try {
+    throw new Re
+}
