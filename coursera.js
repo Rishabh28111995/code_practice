@@ -117,5 +117,9 @@ try {
 console.log('My prog. does not stop.')
 
 try {
-    throw new Re
+    throw new ReferenceError();
+
+} catch(err) {
+    console.log(err)
+    console.log('')
 }
