@@ -123,3 +123,5 @@ try {
     console.log(err)
     console.log('There was a reference error.')
 }
+
+console.log('a + b')
