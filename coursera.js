@@ -125,6 +125,6 @@ try {
 }
 
 throw new Error();
-  console.log("Hello");
+  console.log("Hello"); 
 
 
