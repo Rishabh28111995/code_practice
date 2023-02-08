@@ -127,6 +127,4 @@ try {
 throw new Error();
   console.log("Hello");
 
-  Number(5).toPrecision(300)
-
 
