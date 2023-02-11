@@ -1,2 +1,4 @@
 console.log(__dirname)
-setInterval()
+setInterval(()=>{
+    console.log("Hello Rishabh")
+}, 1000)
