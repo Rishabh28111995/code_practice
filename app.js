@@ -1,4 +1,1 @@
-var greet = require('./greet');
-
-greet.english();
-greet.spanish();
+console.log(__dirname)
