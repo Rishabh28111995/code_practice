@@ -2,7 +2,8 @@
 const names = require('./2-names')
 const sayHi = require('./3-anything')
 
-const redVArequire('./4-addvalue')
+const redValue = require('./4-addvalue')
+console.log()
 //sayHi('susan')
 //sayHi(names.john)
 //sayHi(names.peter)
