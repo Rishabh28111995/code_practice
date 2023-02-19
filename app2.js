@@ -1,1 +1,1 @@
-con
+console.log(`The system uptime is ${os.uptime()} sec`)
